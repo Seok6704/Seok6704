@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+Skills
 
-Skills\n
 <img src="https://img.shields.io/badge/C++-FFFFFF?style=plastic&logo=cplusplus&logoColor=000000"/></a>
 
 <!--
