@@ -2,8 +2,6 @@
 
 ✉Email - dnflrkcjswo@naver.com
 
-☎PhoneCall - +82 10-7579-6704
-
 ### **✨Languages** - in using ratio
 
 <img src="https://img.shields.io/badge/C-239128?style=plastic&logo=csharp&logoColor=FFFFFF"/></a>
