@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/C++-FFFFFF?style=plastic&logo=00599C&logoColor=000000"/></a>
+
 <!--
 **Seok6704/Seok6704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
