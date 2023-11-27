@@ -4,7 +4,7 @@
 
 ### **✨Languages** - in using ratio
 
-<img src="https://img.shields.io/badge/Csharp-512BD4?style=plastic&logo=csharp&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/CSharp-512BD4?style=plastic&logo=csharp&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=FFFFFF"/></a>
